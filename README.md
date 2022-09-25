@@ -32,6 +32,7 @@ git config --global user.name "Your Name"
 
 git status
 
+<<<<<<< HEAD
  ### comando de inicio do repositorio local
 
 git init
@@ -53,3 +54,7 @@ git remote add origin ....
 git push -u origin main
 git push
 git pull
+=======
+
+novo alguma acrescentado ...bla bla bla
+>>>>>>> 1b77345b9a93be3d16c05eeac1f37e1095f0f98c
