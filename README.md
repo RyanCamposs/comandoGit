@@ -29,3 +29,5 @@ git config
 
 git status
 
+
+novo alguma acrescentado ...bla bla bla
