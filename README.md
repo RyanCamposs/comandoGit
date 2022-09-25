@@ -24,8 +24,32 @@ ___
 
 ## Comando Git
 
-git config
+### comandos de configuração
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
 
 
 git status
 
+ ### comando de inicio do repositorio local
+
+git init
+
+### 
+
+git add .
+git nome do arquivo
+
+### 
+git commit -m "  ..."
+git commit -a -m "...."
+
+### repositorio remoto (github)
+
+git branch -M main
+git remote add origin ....
+
+git push -u origin main
+git push
+git pull
